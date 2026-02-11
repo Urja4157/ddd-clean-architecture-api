@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <File Path="ARCHITECTURE.md" />
+    <File Path="README.md" />
+    <Project Path="DDD.API/DDD.API.csproj" />
+    <Project Path="DDD.Application/DDD.Application.csproj" />
+    <Project Path="DDD.Domain/DDD.Domain.csproj" />
+    <Project Path="DDD.Persistance/DDD.Persistance.csproj" />
+  </Folder>
+</Solution>

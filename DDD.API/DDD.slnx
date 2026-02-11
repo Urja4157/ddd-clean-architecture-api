@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <File Path=".gitignore" />
+    <File Path="ARCHITECTURE.md" />
+    <File Path="README.md" />
+    <Project Path="../DDD.Application/DDD.Application.csproj" />
+    <Project Path="../DDD.Domain/DDD.Domain.csproj" />
+    <Project Path="../DDD.Persistance/DDD.Persistance.csproj" />
+    <Project Path="DDD.API.csproj" />
+  </Folder>
+</Solution>
