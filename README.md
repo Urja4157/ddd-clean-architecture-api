@@ -92,14 +92,13 @@ POST /products – Create a product
 
 GET /products/{id} – Get product by ID
 
-###📚 References
+📚 References
 
 This project was built as a learning exercise inspired by Clean Architecture and Domain-Driven Design resources in the .NET ecosystem.
 
-###⚠️ Disclaimer
+⚠️ Disclaimer
 
 
 This project is intentionally simple and focuses on architecture and design principles, not on edge cases, performance, or production readiness.
 
 
-test
